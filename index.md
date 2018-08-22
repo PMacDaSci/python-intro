@@ -59,7 +59,7 @@ After this course you should be able to:
 ## Course Presenters
 
 - Maria Doyle, Research Computing Facility
-- Richar Lupat, Bioinformatics Core
+- Richard Lupat, Bioinformatics Core
 - Miriam Yeung, Dawson Labs
 
 ## Course Helpers
