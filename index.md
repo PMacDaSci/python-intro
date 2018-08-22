@@ -32,14 +32,26 @@ After this course you should be able to:
 
 ## Course Materials
 
+(*draft*)
+
 ### Week 1
 - [Introduction](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
+- [Simple data types](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_1.ipynb)
+- [Lists and Dictionaries](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_2.ipynb)
+
 
 ### Week 2
-- Loops
+- [Conditional execution](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_3.ipynb)
+- [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
+
 
 ### Week 3
-- Files
+(TODO *select from below*)
+- [What we've learned so far](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
+- [Functions](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_1.ipynb)
+- [Exercises and Modules](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_2.ipynb)
+- [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
+- [BioPython](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_4.ipynb)
 
 ### Week 4
 - Case Studies/Practice
