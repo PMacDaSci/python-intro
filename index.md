@@ -33,7 +33,7 @@ After this course you should be able to:
 ## Course Materials
 
 ### Week 1
-- [Introduction](https://pmacdasci/python-intro/master/Introduction_to_python_day_1_introduction.ipynb)
+- [Introduction](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
 
 ### Week 2
 - Loops
