@@ -46,12 +46,10 @@ After this course you should be able to:
 
 
 ### Week 3
-(TODO *select from below*)
+
 - [What we've learned so far](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
-- [Functions](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_1.ipynb)
-- [Exercises and Modules](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_2.ipynb)
 - [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
-- [BioPython](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_4.ipynb)
+
 
 ### Week 4
 - Case Studies/Practice
