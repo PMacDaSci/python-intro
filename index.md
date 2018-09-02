@@ -32,7 +32,6 @@ After this course you should be able to:
 
 ## Course Materials
 
-(*draft*)
 
 ### Week 1
 - [Introduction](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
@@ -41,14 +40,12 @@ After this course you should be able to:
 
 
 ### Week 2
-- [Conditional execution](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_3.ipynb)
-- [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
+- Conditional execution and Loops
 
 
 ### Week 3
 
-- [What we've learned so far](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
-- [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
+- Files
 
 
 ### Week 4
@@ -64,7 +61,6 @@ After this course you should be able to:
 
 *(includes all above)*
 
-- James Morgan, Parkville Familial Cancer Centre
 - Lara Petelin, Parkville Familial Cancer Centre
 
 ## Acknowledgements
