@@ -44,12 +44,15 @@ After this course you should be able to:
 
 
 ### Week 3
-
 - Files
 
 
 ### Week 4
 - Case Studies/Practice
+
+
+### Additional Reading
+- [Additional Reading](https://github.com/PMacDaSci/python-intro/blob/master/Additional%20Reading.ipynb)
 
 ## Course Presenters
 
