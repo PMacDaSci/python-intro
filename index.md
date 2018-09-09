@@ -40,8 +40,8 @@ After this course you should be able to:
 
 
 ### Week 2
-- Conditional execution and Loops
-
+- [Conditional execution](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_3.ipynb)
+- [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
 
 ### Week 3
 - Files
