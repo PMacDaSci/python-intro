@@ -1,0 +1,149 @@
+>random coding sequence 1 consisting of 60 bases.
+atgagtagcttcggccgctcaatcatgcgccggaaaggtggttcgcggcgtgggtactga
+
+>random coding sequence 2 consisting of 60 bases.
+atgcctgtggagattttaccaacgattgctgctgcgattaatagaactaagatttgttga
+
+>random coding sequence 3 consisting of 60 bases.
+atgtccacgacttctaaagtatattctgtcaaaaagaccacgccccttcccatgacatag
+
+>random coding sequence 4 consisting of 60 bases.
+atggtcgaaagtgcccggttgtcgcgcgtcatatggacaacactttcaatagttatctga
+
+>random coding sequence 5 consisting of 60 bases.
+atgtgtgggttattgcgaccagcccaaaaaggtaagccaagcaagagggtaccggcttaa
+
+>random coding sequence 6 consisting of 60 bases.
+atgttagtagcaactagccgtgatgtaatcttgagcccctttttaacaattcgaacgtga
+
+>random coding sequence 7 consisting of 60 bases.
+atgcaagcgcatttgtgggtggacagtcgggtattgaatgagtggtacctcccacaatga
+
+>random coding sequence 8 consisting of 60 bases.
+atgttaaaatgggaaaaagtaatcgtccgccgccaacgcagtctaggcgtacagtattga
+
+>random coding sequence 9 consisting of 60 bases.
+atgcaagtcgtcaccagtgtctttggggcccagccatctcgcaaagaaaccacggactaa
+
+>random coding sequence 10 consisting of 60 bases.
+atgatggaaaataacgagttgtgcgctatggcgtctcaaaggggggagtatgggtcctga
+
+>random coding sequence 11 consisting of 60 bases.
+atgtgggggaacatttcagtccagggcaaccaaatcacagtgagcgaatccacggcttga
+
+>random coding sequence 12 consisting of 60 bases.
+atgtgcgttcgccctccaatggctgttctcgtttacgcgtgtccttcaacgactacgtaa
+
+>random coding sequence 13 consisting of 60 bases.
+atggagctaggggacaggatctattcactgaatcgaggacctgactacccgtgtatctaa
+
+>random coding sequence 14 consisting of 60 bases.
+atgtacctccaggtgtgtgagccgcttcgatacgtagaagagtacttttccgagaaatga
+
+>random coding sequence 15 consisting of 60 bases.
+atgacacggaagcagtactttgtaccttgtagctttctttatagaagaatcacgaattag
+
+>random coding sequence 16 consisting of 60 bases.
+atgtgttttcacatctgccgcagatacaaaaacgattgcatgcgaacaagctacgtataa
+
+>random coding sequence 17 consisting of 60 bases.
+atggcaaaggcgtgcgtagaagagcttccttcttttttctgcactggcccccgcgtataa
+
+>random coding sequence 18 consisting of 60 bases.
+atgcatcgtttgcatcgcggcgattttacatgtggagatctgatttactggctgtcgtaa
+
+>random coding sequence 19 consisting of 60 bases.
+atgcggtcatctattgggccacttctggttgctgttacaaaaattatcgtgtgtagctag
+
+>random coding sequence 20 consisting of 60 bases.
+atgctcaacgattcaagttcaatgactcccatttttgtggactggtcgattttagaatga
+
+>random coding sequence 21 consisting of 60 bases.
+atggcctatatgccggataagggagtgcgttattggggcttgtatacaagcccggtttga
+
+>random coding sequence 22 consisting of 60 bases.
+atgtattcatatcccgagggacgcttcgcggtaagggcgtcaaggcatcaaggcgtttag
+
+>random coding sequence 23 consisting of 60 bases.
+atgcaaaattttcttcggggtctcatacctaatggcccccacgcatcgcaagcattgtaa
+
+>random coding sequence 24 consisting of 60 bases.
+atgcaagactggccctacgaactctgtatctacccacatttgggcccccaaaatatttaa
+
+>random coding sequence 25 consisting of 60 bases.
+atgacctggttagccacagccaccgcaagtccatctcggcatatttccctaaaggtataa
+
+>random coding sequence 26 consisting of 60 bases.
+atgctgtttgaactaggggcggagcgagtaagatcggccttcccgggatcctcacaatga
+
+>random coding sequence 27 consisting of 60 bases.
+atgtgcgttcactgcattctgctacgaggtgcactcctcatgcctgatgggaagagttaa
+
+>random coding sequence 28 consisting of 60 bases.
+atggagatttttagcgcggctgggaccaaggtggtccaaacaaggcgcggggtttgttaa
+
+>random coding sequence 29 consisting of 60 bases.
+atgccagcacgagtgcggcacatgcacctttcgggcacgggtcatcaacccaccgcgtaa
+
+>random coding sequence 30 consisting of 60 bases.
+atgggggagatcaagggggcaattccacaagcagctggagaacctacttcacgtaagtag
+
+>random coding sequence 31 consisting of 60 bases.
+atgggaggttctaggagtagcagtgtttataggacagttagcaatgaattaagcacgtga
+
+>random coding sequence 32 consisting of 60 bases.
+atggaaatgcgctcgaaccattataatgcacagcgtcgtcgaccgagtcgcgcatcttaa
+
+>random coding sequence 33 consisting of 60 bases.
+atgtggttccacccgttgttcaccgttgtgcctcgtgtcatgacaagcattgtgccttga
+
+>random coding sequence 34 consisting of 60 bases.
+atgctcccttgttgctgtgaattgcctgattggtatacagtcgcgcgcgttcaaaagtaa
+
+>random coding sequence 35 consisting of 60 bases.
+atgagaccctcctcacattccaggggacgggactacgactcggatccgtccgtatattaa
+
+>random coding sequence 36 consisting of 60 bases.
+atgatctctacttgttatcggcgcgctctgccactattcgtgagcggaattttaatttaa
+
+>random coding sequence 37 consisting of 60 bases.
+atggcacgcggatttccctgtacacgtagtcagtacactgcgaactttggagaattctga
+
+>random coding sequence 38 consisting of 60 bases.
+atgaagattctaggttaccatctgccagagccatcccaggcaaaccgatctggagagtaa
+
+>random coding sequence 39 consisting of 60 bases.
+atgagaccacatgacaatagttgcgaaattacggaactaaaaagacaaattcagcagtga
+
+>random coding sequence 40 consisting of 60 bases.
+atggaacaccaaccacccctgtcatgtttcgcgagtgaatttacggacaaaccaatgtaa
+
+>random coding sequence 41 consisting of 60 bases.
+atgcttataaagtgtaactgcaccgctgttaggtgcgcttatgtattctgggccttctag
+
+>random coding sequence 42 consisting of 60 bases.
+atgacgttatcctatcgagtacgtcggtattataaagctatgccctctttaggattataa
+
+>random coding sequence 43 consisting of 60 bases.
+atgcgtctctgcttccttcctaatagtgctctcgtttcaatatatatcgacccacagtga
+
+>random coding sequence 44 consisting of 60 bases.
+atgaatagcctctgcttagacttaaaggtgtggagcgcagcgtttgccccacttacctag
+
+>random coding sequence 45 consisting of 60 bases.
+atgagagctctccgcgcagttgatagcagacattcagccctgtcgcggccattgctctag
+
+>random coding sequence 46 consisting of 60 bases.
+atgataaagcttgcggcaaacgctacagagccacggcgggttaccaaggcattatcctaa
+
+>random coding sequence 47 consisting of 60 bases.
+atgaagttcaccaaaaatcatgttactcctgtttggaaattggtacgcctaaggcattag
+
+>random coding sequence 48 consisting of 60 bases.
+atgggaactgggcccgataagagcgaggctggcatcaaccaggggcctacgctgttgtaa
+
+>random coding sequence 49 consisting of 60 bases.
+atggttatcaaatatgttgaaacctacgatgttgtggagaaatggcggttactgaactga
+
+>random coding sequence 50 consisting of 60 bases.
+atgcaatgccgcatctccacctacaacgctccttccgacgatcgtggggaaacaggatag
