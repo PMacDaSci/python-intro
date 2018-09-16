@@ -44,8 +44,10 @@ After this course you should be able to:
 - [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
 
 ### Week 3
-- Files
-
+- [Recap](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
+- [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
+- [Pandas Reading from a CSV](https://github.com/PMacDaSci/python-intro/blob/master/Pandas_Cookbook_Reading_from_a_CSV.ipynb)
+- [Pandas Selecting data](https://github.com/PMacDaSci/python-intro/blob/master/Pandas_Cookbook_Selecting_data.ipynb)
 
 ### Week 4
 - Case Studies/Practice
