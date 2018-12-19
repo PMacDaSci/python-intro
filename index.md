@@ -34,27 +34,28 @@ After this course you should be able to:
 
 
 ### Week 1
-- [Introduction](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
-- [Simple data types](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_1.ipynb)
-- [Lists and Dictionaries](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_2.ipynb)
+- [Introduction](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_1_introduction.ipynb)
+- [Simple data types](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_1_session_1.ipynb)
+- [Lists and Dictionaries](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_1_session_2.ipynb)
 
 
 ### Week 2
-- [Conditional execution](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_3.ipynb)
-- [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
+- [Conditional execution](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_1_session_3.ipynb)
+- [Loops](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_1_session_4.ipynb)
 
 ### Week 3
-- [Recap](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
-- [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
-- [Pandas Reading from a CSV](https://github.com/PMacDaSci/python-intro/blob/master/Pandas_Cookbook_Reading_from_a_CSV.ipynb)
-- [Pandas Selecting data](https://github.com/PMacDaSci/python-intro/blob/master/Pandas_Cookbook_Selecting_data.ipynb)
+- [Recap](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_2_session_1.ipynb)
+- [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_2_session_2.ipynb)
 
 ### Week 4
 - Case Studies/Practice
+- [Collating Multiple Patient Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_4_patients_example.ipynb)
 
 
 ### Additional Reading
-- [Additional Reading](https://github.com/PMacDaSci/python-intro/blob/master/Additional%20Reading.ipynb)
+- [Additional Reading](https://github.com/PMacDaSci/python-intro/blob/master/Additional_Reading/Additional%20Reading.ipynb)
+- [Pandas Reading from a CSV](https://github.com/PMacDaSci/python-intro/blob/master/Additional_Reading/Pandas_Cookbook_Reading_from_a_CSV.ipynb)
+- [Pandas Selecting data](https://github.com/PMacDaSci/python-intro/blob/master/Additional_Reading/Pandas_Cookbook_Selecting_data.ipynb)
 
 ## Course Presenters
 
