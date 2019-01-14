@@ -48,8 +48,7 @@ After this course you should be able to:
 - [Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_2_session_2.ipynb)
 
 ### Week 4
-- Case Studies/Practice
-- [Collating Multiple Patient Files](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_4_patients_example.ipynb)
+- [Use Cases/Practice](https://github.com/PMacDaSci/python-intro/blob/master/Introduction_to_python_week_4.ipynb)
 
 
 ### Additional Reading
